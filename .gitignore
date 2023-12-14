@@ -1,0 +1,7 @@
+__pycache__
+*.zip
+/data/
+/engine/data/
+/transfer_data/
+/full-body-vto/preprocess/pytorch-openpose/model/
+/full-body-vto/preprocess/Self-Correction-Human-Parsing/checkpoints/
